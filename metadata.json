@@ -1,0 +1,6 @@
+{
+  "name": "AI 융합교육 수업 예시",
+  "description": "교육공학, AI 융합교육, 청소년지도에 관심을 두고 오렌지3로 전복 무게 예측하기 수업을 진행하는 교사의 개인 홈페이지입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
